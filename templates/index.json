@@ -1,0 +1,60 @@
+{
+  "sections": {
+    "main_section_nDRmyh": {
+      "type": "MainSection",
+      "blocks": {
+        "video_YWaykK": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/vp\/4166a24a401d487c8f00a7840be8184f\/4166a24a401d487c8f00a7840be8184f.HD-1080p-2.5Mbps-25497928.mp4",
+            "overlay_opacity": 99,
+            "title": "",
+            "text": "",
+            "color_text": "#ffffff",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all",
+            "color_btn_bg": "#ffba01",
+            "color_btn_text": "#232323"
+          }
+        }
+      },
+      "block_order": [
+        "video_YWaykK"
+      ],
+      "settings": {
+      }
+    },
+    "featured_collection_CpXktz": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>YOU'VE NEVER HAD A MILK  <\/strong>",
+        "heading_size": "h0",
+        "description": "<h1><strong>ALTERNATIVE LIKE BORED COW<\/strong><\/h1><h6>     <strong>Bored Cow is packed with sustainable milk protein, and rich in <\/strong><\/h6><h5><strong>calcium and vitamin D. It's perfect for cooking, baking, and coffee <\/strong><\/h5><h4><strong>making. That's why we call it the first milk alternative to do it all.<\/strong><\/h4>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main_section_nDRmyh",
+    "featured_collection_CpXktz"
+  ]
+}
